@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1036749824220",
+    "firebase_url": "https://spotfin-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "spotfin-app",
+    "storage_bucket": "spotfin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036749824220:android:bcc6481777ca1f90389419",
+        "android_client_info": {
+          "package_name": "com.rom.notifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036749824220-k5ici0hc0rjq99irbd6o8mm6frit01rg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rom.notifyapp",
+            "certificate_hash": "7d8e4f2ae3e3128f75800e8dad1ae3debc169806"
+          }
+        },
+        {
+          "client_id": "1036749824220-1eq95pvgfhl4vfqov9f11fobpjpsdkb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjkzQZJNUBjfQ0PfMfv5k75pqc4wic_KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036749824220-1eq95pvgfhl4vfqov9f11fobpjpsdkb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
